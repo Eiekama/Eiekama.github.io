@@ -1,0 +1,17 @@
+body {
+    width: auto
+    height: auto
+    display: flex;
+    align-items: stretch
+}
+
+.container {
+    background-color: darkgray;
+    margin: 30px 20px;
+    padding: 5px 35px;
+}
+
+p {
+    background-color: blue;
+    border: thick dotted rgb(255, 0, 0);
+}
